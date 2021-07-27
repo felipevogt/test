@@ -11,11 +11,11 @@ class DB
 
     public function __construct()
     {
-        $this->host     = 'localhost';
+        $this->host     = 'bhmcgn0almtrwclc8kdg-mysql.services.clever-cloud.com';
         $this->port     = '3306';
-        $this->db       = 'prueba_felipe_vogt';
-        $this->user     = 'root';
-        $this->password = '';
+        $this->db       = 'bhmcgn0almtrwclc8kdg';
+        $this->user     = 'urjpfmwk56bbf931';
+        $this->password = 'RqhO2kWDEJAy2n5wXZe5';
         $this->charset  = 'utf8mb4';
     }
 
